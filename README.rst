@@ -1,7 +1,7 @@
 World Clock & Weather
 =====================
 
-**This project is not maintained any more!**
+**This is the active project repository!**
 
 A simple application to display the local time and current weather conditions in places all over the world.
 It comes with two home screen widgets which show weather and time or time only.
