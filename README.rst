@@ -6,8 +6,8 @@ World Clock & Weather
 A simple application to display the local time and current weather conditions in places all over the world.
 It comes with two home screen widgets which show weather and time or time only.
 
-.. image:: https://travis-ci.org/arminha/worldclockwidget.svg?branch=master
-    :target: https://travis-ci.org/arminha/worldclockwidget
+.. image:: https://travis-ci.org/dasbiswajit/worldclockwidget.svg?branch=master
+    :target: https://travis-ci.org/dasbiswajit/worldclockwidget
 
 Features
 --------
@@ -25,7 +25,9 @@ The Internet connectivity permission is **only** used to retrieve current weathe
 Download
 --------
 
-The latest version of the app is available on `F-Droid <https://f-droid.org/repository/browse/?fdid=ch.corten.aha.worldclock>`_.
+ `F-Droid <https://f-droid.org/repository/browse/?fdid=ch.corten.aha.worldclock>`_.
+ `Google Play <https://play.google.com/store/apps/details?id=ch.corten.aha.worldclock>`_.
+
 
 Screenshots
 -----------
@@ -57,7 +59,9 @@ The app uses and includes the following libraries:
 Acknowledgements
 ----------------
 
+* Special Thanks to `Armin <https://github.com/arminha/>`_ for earlier maintanence.
 * Special thanks to `vyick <http://vyick.wordpress.com/>`_ for beta testing and feature suggestions!
 * Weather data is provided by `Open Weather Map <https://openweathermap.org/>`_.
 * The weather icons are based on `Meteocons <http://www.alessioatzeni.com/meteocons/>`_ from Alessio Atzeni.
 * Time zone and geographical data is provided by `GeoNames <http://www.geonames.org/>`_.
+
