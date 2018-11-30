@@ -1,13 +1,16 @@
+
 World Clock & Weather
 =====================
 
-**This is the active project repository!**
+**This is active project maintained repository!**
 
 A simple application to display the local time and current weather conditions in places all over the world.
 It comes with two home screen widgets which show weather and time or time only.
 
 .. image:: https://travis-ci.org/dasbiswajit/worldclockwidget.svg?branch=master
     :target: https://travis-ci.org/dasbiswajit/worldclockwidget
+
+
 
 Features
 --------
@@ -65,3 +68,24 @@ Acknowledgements
 * The weather icons are based on `Meteocons <http://www.alessioatzeni.com/meteocons/>`_ from Alessio Atzeni.
 * Time zone and geographical data is provided by `GeoNames <http://www.geonames.org/>`_.
 
+
+## License
+```
+World Clock & Weather
+Copyright (C) 2014  Armin Häberling
+Copyright (C) 2018 Biswajit Das
+
+This program is free software: you can use as referance 
+under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version. You must recieve a concert 
+from the above developers
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+```
