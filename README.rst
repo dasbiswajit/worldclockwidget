@@ -69,11 +69,12 @@ Acknowledgements
 * Time zone and geographical data is provided by `GeoNames <http://www.geonames.org/>`_.
 
 
-## License
-```
+License
+----------------
 World Clock & Weather
-Copyright (C) 2014  Armin Häberling
-Copyright (C) 2018 Biswajit Das
+
+* Copyright (C) 2014  Armin Häberling
+* Copyright (C) 2018 Biswajit Das
 
 This program is free software: you can use as referance 
 under the terms of the GNU General Public License as published by
@@ -87,5 +88,4 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-```
+along with this program.  If not, see `gnu <http://www.gnu.org/licenses/>`__.
