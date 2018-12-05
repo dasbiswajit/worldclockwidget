@@ -34,8 +34,7 @@ Download
 
 Screenshots
 -----------
-
-`wiki/Screenshots <https://github.com/arminha/worldclockwidget/wiki/Screenshots>`_
+`wiki/Screenshots <https://github.com/dasbiswajit/worldclockwidget/wiki/Screenshots>`_
 
 Building
 --------
@@ -73,8 +72,8 @@ License
 ----------------
 World Clock & Weather
 
-* Copyright (C) 2014  Armin Häberling
 * Copyright (C) 2018 Biswajit Das
+* Copyright (C) 2014  Armin Häberling
 
 This program is free software: you can use as referance 
 under the terms of the GNU General Public License as published by
