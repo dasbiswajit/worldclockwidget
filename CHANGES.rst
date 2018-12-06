@@ -1,3 +1,7 @@
+1.9.1:
+
+* Update repolocation and minor changes
+
 1.9.0:
 
 * Fix potential SQL injection in the content provider for the weather widgets
