@@ -9,6 +9,16 @@ It comes with two home screen widgets which show weather and time or time only.
 .. image:: https://travis-ci.org/dasbiswajit/worldclockwidget.svg?branch=master
     :target: https://travis-ci.org/dasbiswajit/worldclockwidget
 
+Download
+--------
+
+.. image:: https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png
+    :target: https://play.google.com/store/apps/details?id=ch.corten.aha.worldclock
+
+.. image:: https://gitlab.com/fdroid/artwork/raw/master/badge/get-it-on.png
+    :target: https://f-droid.org/repository/browse/?fdid=ch.corten.aha.worldclock
+    
+
 
 
 Features
@@ -27,11 +37,6 @@ Permissions
 
 * The Internet connectivity permission is **only** used to retrieve current weather conditions. 
 * Google Play version required GPS for detecting your location automatically.
-
-Download
---------
-
- `F-Droid <https://f-droid.org/repository/browse/?fdid=ch.corten.aha.worldclock>`_.
 
 
 Screenshots
