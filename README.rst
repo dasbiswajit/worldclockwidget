@@ -21,7 +21,8 @@ Download
 .. image:: https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-white.png
     :target: https://www.amazon.com/gp/product/B07HJVH3MW/ref=Biswajit-Das-World-Weather-Widget
 
-
+.. image:: https://cdn6.aptoide.com/includes/themes/2014/images/aptoide_badge.svg
+    :target: https://world-clock-weather.en.aptoide.com/
 
 Features
 --------
