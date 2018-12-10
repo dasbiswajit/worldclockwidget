@@ -1,5 +1,5 @@
 
-World Clock & Weather (This is active project & maintained repository!)
+World Clock & Weather (This is maintained repository!)
 ======================================================================
 
 
@@ -18,6 +18,8 @@ Download
 .. image:: https://gitlab.com/fdroid/artwork/raw/master/badge/get-it-on.png
     :target: https://f-droid.org/repository/browse/?fdid=ch.corten.aha.worldclock
     
+.. image:: https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-white.png
+    :target: https://www.amazon.com/gp/product/B07HJVH3MW/ref=Biswajit-Das-World-Weather-Widget
 
 
 
