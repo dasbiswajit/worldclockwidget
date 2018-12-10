@@ -52,11 +52,10 @@ Building
 We use `Gradle <http://www.gradle.org/>`__.
 Run ``./gradlew assembleDebug`` to create a debug build or ``./gradlew assembleRelease`` to create a release build.
 
-OpenWeatherMap API key
+OpenWeatherMap API key(Only on Fdroid version)
 ######################
 
-Using the OpenWeatherMap API requires an API key. A default key is stored in the file ``./worldclockwidget/default_owm_api_key``. It can be overwritten by setting the Gradle project property ``owmApiKey``.
-It is recomended that you shoould generate your own API key. Process described at Application Settings -> GENERAL -> !!!Important!!!
+Fdroid version requires an API key. Check wiki for details. 
 
 Libraries
 ---------
