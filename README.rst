@@ -1,8 +1,7 @@
 
-World Clock & Weather
-=====================
+World Clock & Weather (This is active project & maintained repository!)
+======================================================================
 
-**This is active project maintained repository!**
 
 A simple application to display the local time and current weather conditions in places all over the world.
 It comes with two home screen widgets which show weather and time or time only.
@@ -15,21 +14,24 @@ It comes with two home screen widgets which show weather and time or time only.
 Features
 --------
 
-* Generate own api key via signup. Process described at Settings -> GENERAL -> !!!Important!!!
 * Show local time and weather conditions in more than 4000 places.
 * Add your own places: Add a place in the same time zone and change its name and coordinates to your desired location to show the actual weather condition there!
 * A compact clock widget, displaying the local time in your favorite locations.
 * A widget showing the time and weather, which is re-sizable to show multiple locations on the home screen.
 * Simple and clean UI
 * Customizable widget colors (including transparent background)
+* Auto detect location (Google play version only)
 
-The Internet connectivity permission is **only** used to retrieve current weather conditions.
+Permissions
+-----------
+
+* The Internet connectivity permission is **only** used to retrieve current weather conditions. 
+* Google Play version required GPS for detecting your location automatically.
 
 Download
 --------
 
  `F-Droid <https://f-droid.org/repository/browse/?fdid=ch.corten.aha.worldclock>`_.
- `Google Play <https://play.google.com/store/apps/details?id=ch.corten.aha.worldclock>`_.
 
 
 Screenshots
@@ -72,6 +74,8 @@ License
 ----------------
 World Clock & Weather
 
+**Prohibited for commercial use!!**
+
 * Copyright (C) 2018 Biswajit Das
 * Copyright (C) 2014  Armin Häberling
 
@@ -87,4 +91,4 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program.  If not, see `gnu <http://www.gnu.org/licenses/>`__.
+along with this program also from the auther.
