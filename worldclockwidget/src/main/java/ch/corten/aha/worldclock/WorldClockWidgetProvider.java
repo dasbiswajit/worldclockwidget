@@ -96,6 +96,7 @@ public class WorldClockWidgetProvider extends ClockWidgetProvider {
 
         try {
             int n = 0;
+            Moment moment = PlatformClock.INSTANCE.currentTime();
             DateFormat df = android.text.format.DateFormat.getTimeFormat(context);
             final int maxEntries = context.getResources().getInteger(R.integer.worldclock_widget_max_entries);
             while (cursor.moveToNext() && n < CITY_IDS.length
@@ -104,11 +105,10 @@ public class WorldClockWidgetProvider extends ClockWidgetProvider {
                 String city = cursor.getString(cursor.getColumnIndex(Clocks.CITY));
                 views.setTextViewText(CITY_IDS[n], city);
                 TZID tzid = Timezone.of(id).getID();
-                TimeSource<Moment> clock = PlatformClock.INSTANCE;
                 if (SANS_JELLY_BEAN_MR1) {
-                    views.setTextViewText(TIME_IDS[n], TimeZoneInfo.formatDate(df, tzid, clock));
+                    views.setTextViewText(TIME_IDS[n], TimeZoneInfo.formatDate(df, tzid, moment));
                 } else {
-                    TimeZone javaTimeZone = TimeZoneInfo.convertToJavaTimeZone(tzid, clock);
+                    TimeZone javaTimeZone = TimeZoneInfo.convertToJavaTimeZone(tzid, moment);
                     views.setViewVisibility(TIME_IDS[n], View.VISIBLE);
                     RemoteViewUtil.setTextClockTimeZone(views, TIME_IDS[n], javaTimeZone.getID());
                 }
