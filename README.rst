@@ -31,7 +31,7 @@ OpenWeatherMap API key(Only on Fdroid version)
 
 `fdroid key update problem <https://forum.f-droid.org/t/hide-key-and-credentials/4972>`_
 
-Check wiki for details. 
+Check wiki(https://github.com/dasbiswajit/worldclockwidget/wiki) for details. 
 
 
 Features
