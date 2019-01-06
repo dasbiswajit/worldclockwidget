@@ -24,6 +24,16 @@ Download
 .. image:: https://cdn6.aptoide.com/includes/themes/2014/images/aptoide_badge.svg
     :target: https://world-clock-weather.en.aptoide.com/
 
+OpenWeatherMap API key(Only on Fdroid version)
+######################
+
+**Fdroid version requires an API key**.
+
+`fdroid key update problem <https://forum.f-droid.org/t/hide-key-and-credentials/4972>`_
+
+Check wiki for details. 
+
+
 Features
 --------
 
@@ -52,14 +62,6 @@ Building
 We use `Gradle <http://www.gradle.org/>`__.
 Run ``./gradlew assembleDebug`` to create a debug build or ``./gradlew assembleRelease`` to create a release build.
 
-OpenWeatherMap API key(Only on Fdroid version)
-######################
-
-**Fdroid version requires an API key**.
-
-`fdroid key update problem <https://forum.f-droid.org/t/hide-key-and-credentials/4972>`_
-
-Check wiki for details. 
 
 Libraries
 ---------
