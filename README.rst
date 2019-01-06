@@ -55,7 +55,11 @@ Run ``./gradlew assembleDebug`` to create a debug build or ``./gradlew assembleR
 OpenWeatherMap API key(Only on Fdroid version)
 ######################
 
-Fdroid version requires an API key. Check wiki for details. 
+**Fdroid version requires an API key**.
+
+`fdroid key update problem <https://forum.f-droid.org/t/hide-key-and-credentials/4972>`_
+
+Check wiki for details. 
 
 Libraries
 ---------
