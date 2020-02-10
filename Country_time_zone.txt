@@ -1,0 +1,357 @@
+Afghanistan,Asia/Kabul
+Aland Islands,Europe/Mariehamn
+Albania,Europe/Tirane
+Algeria,Africa/Algiers
+American Samoa,Pacific/Pago_Pago
+Andorra,Europe/Andorra
+Angola,Africa/Luanda
+Anguilla,America/Anguilla
+Antarctica,Antarctica/McMurdo
+Antarctica,Antarctica/Palmer
+Antigua and Barbuda,America/Antigua
+Argentina,America/Argentina/Buenos_Aires
+Argentina,America/Argentina/Rio_Gallegos
+Argentina,America/Argentina/Cordoba
+Argentina,America/Argentina/La_Rioja
+Argentina,America/Argentina/Mendoza
+Argentina,America/Argentina/Salta
+Argentina,America/Argentina/Catamarca
+Argentina,America/Argentina/San_Juan
+Argentina,America/Argentina/San_Luis
+Argentina,America/Argentina/Tucuman
+Argentina,America/Argentina/Jujuy
+Argentina,America/Argentina/Ushuaia
+Armenia,Asia/Yerevan
+Aruba,America/Aruba
+Australia,Australia/Adelaide
+Australia,Australia/Melbourne
+Australia,Australia/Brisbane
+Australia,Australia/Broken_Hill
+Australia,Australia/Sydney
+Australia,Australia/Darwin
+Australia,Australia/Hobart
+Australia,Australia/Perth
+Austria,Europe/Vienna
+Azerbaijan,Asia/Baku
+Bahamas,America/Nassau
+Bahrain,Asia/Bahrain
+Bangladesh,Asia/Dhaka
+Barbados,America/Barbados
+Belarus,Europe/Minsk
+Belgium,Europe/Brussels
+Belize,America/Belize
+Benin,Africa/Porto-Novo
+Bermuda,Atlantic/Bermuda
+Bhutan,Asia/Thimphu
+Bolivia,America/La_Paz
+Bonaire,
+Bosnia and Herzegovina,Europe/Sarajevo
+Botswana,Africa/Gaborone
+Brazil,America/Bahia
+Brazil,America/Sao_Paulo
+Brazil,America/Belem
+Brazil,America/Maceio
+Brazil,America/Araguaina
+Brazil,America/Boa_Vista
+Brazil,America/Recife
+Brazil,America/Fortaleza
+Brazil,America/Campo_Grande
+Brazil,America/Cuiaba
+Brazil,America/Eirunepe
+Brazil,America/Porto_Velho
+Brazil,America/Manaus
+Brazil,America/Rio_Branco
+Brazil,America/Santarem
+British Virgin Islands,America/Tortola
+Brunei,Asia/Brunei
+Bulgaria,Europe/Sofia
+Burkina Faso,Africa/Ouagadougou
+Burundi,Africa/Bujumbura
+Cabo Verde,Atlantic/Cape_Verde
+Cambodia,Asia/Phnom_Penh
+Cameroon,Africa/Douala
+Canada,America/Vancouver
+Canada,America/Toronto
+Canada,America/Edmonton
+Canada,America/Halifax
+Canada,America/Dawson_Creek
+Canada,America/Blanc-Sablon
+Canada,America/Moncton
+Canada,America/Regina
+Canada,America/St_Johns
+Canada,America/Glace_Bay
+Canada,America/Thunder_Bay
+Canada,America/Whitehorse
+Canada,America/Winnipeg
+Canada,America/Yellowknife
+Cayman Islands,America/Cayman
+Central African Republic,Africa/Bangui
+Chad,Africa/Ndjamena
+Chile,America/Santiago
+Chile,America/Punta_Arenas
+China,Asia/Shanghai
+China,Asia/Urumqi
+Christmas Island,Indian/Christmas
+Cocos Islands,Indian/Cocos
+Colombia,America/Bogota
+Comoros,Indian/Comoro
+Cook Islands,Pacific/Rarotonga
+Costa Rica,America/Costa_Rica
+Croatia,Europe/Zagreb
+Cuba,America/Havana
+Curacao,America/Curacao
+Cyprus,Asia/Nicosia
+Czechia,Europe/Prague
+Democratic Republic of the Congo,Africa/Lubumbashi
+Democratic Republic of the Congo,Africa/Kinshasa
+Denmark,Europe/Copenhagen
+Djibouti,Africa/Djibouti
+Dominica,America/Dominica
+Dominican Republic,America/Santo_Domingo
+Ecuador,America/Guayaquil
+Egypt,Africa/Cairo
+El Salvador,America/El_Salvador
+Equatorial Guinea,Africa/Malabo
+Eritrea,Africa/Asmara
+Estonia,Europe/Tallinn
+Eswatini,Africa/Mbabane
+Ethiopia,Africa/Addis_Ababa
+Falkland Islands,Atlantic/Stanley
+Faroe Islands,Atlantic/Faroe
+Fiji,Pacific/Fiji
+Finland,Europe/Helsinki
+France,Europe/Paris
+French Guiana,America/Cayenne
+French Polynesia,Pacific/Tahiti
+French Southern Territories,Indian/Kerguelen
+Gabon,Africa/Libreville
+Gambia,Africa/Banjul
+Georgia,Asia/Tbilisi
+Germany,Europe/Berlin
+Ghana,Africa/Accra
+Gibraltar,Europe/Gibraltar
+Greece,Europe/Athens
+Greenland,America/Godthab
+Grenada,America/Grenada
+Guadeloupe,America/Guadeloupe
+Guam,Pacific/Guam
+Guatemala,America/Guatemala
+Guernsey,Europe/Guernsey
+Guinea,Africa/Conakry
+Guinea-Bissau,Africa/Bissau
+Guyana,America/Guyana
+Haiti,America/Port-au-Prince
+Honduras,America/Tegucigalpa
+Hong Kong,Asia/Hong_Kong
+Hungary,Europe/Budapest
+Iceland,Atlantic/Reykjavik
+India,Asia/Kolkata
+Indonesia,Asia/Jakarta
+Indonesia,Asia/Jayapura
+Indonesia,Asia/Makassar
+Indonesia,Asia/Pontianak
+Iran,Asia/Tehran
+Iraq,Asia/Baghdad
+Ireland,Europe/Dublin
+Isle of Man,Europe/Isle_of_Man
+Israel,Asia/Jerusalem
+Italy,Europe/Rome
+Ivory Coast,Africa/Abidjan
+Jamaica,America/Jamaica
+Japan,Asia/Tokyo
+Jersey,Europe/Jersey
+Jordan,Asia/Amman
+Kazakhstan,Asia/Aqtau
+Kazakhstan,Asia/Aqtobe
+Kazakhstan,Asia/Almaty
+Kazakhstan,Asia/Atyrau
+Kazakhstan,Asia/Qostanay
+Kazakhstan,Asia/Qyzylorda
+Kazakhstan,Asia/Oral
+Kenya,Africa/Nairobi
+Kiribati,Pacific/Tarawa
+Kosovo,Europe/Belgrade
+Kuwait,Asia/Kuwait
+Kyrgyzstan,Asia/Bishkek
+Laos,Asia/Vientiane
+Latvia,Europe/Riga
+Lebanon,Asia/Beirut
+Lesotho,Africa/Maseru
+Liberia,Africa/Monrovia
+Libya,Africa/Tripoli
+Liechtenstein,Europe/Vaduz
+Lithuania,Europe/Vilnius
+Luxembourg,Europe/Luxembourg
+Macao,Asia/Macau
+Madagascar,Indian/Antananarivo
+Malawi,Africa/Blantyre
+Malaysia,Asia/Kuala_Lumpur
+Malaysia,Asia/Kuching
+Maldives,Indian/Maldives
+Mali,Africa/Bamako
+Malta,Europe/Malta
+Marshall Islands,Pacific/Majuro
+Martinique,America/Martinique
+Mauritania,Africa/Nouakchott
+Mauritius,Indian/Mauritius
+Mayotte,Indian/Mayotte
+Mexico,America/Mexico_City
+Mexico,America/Merida
+Mexico,America/Cancun
+Mexico,America/Chihuahua
+Mexico,America/Matamoros
+Mexico,America/Monterrey
+Mexico,America/Hermosillo
+Mexico,America/Mazatlan
+Mexico,America/Tijuana
+Mexico,America/Ojinaga
+Micronesia,Pacific/Pohnpei
+Moldova,Europe/Chisinau
+Monaco,Europe/Monaco
+Mongolia,Asia/Choibalsan
+Mongolia,Asia/Hovd
+Mongolia,Asia/Ulaanbaatar
+Montenegro,Europe/Podgorica
+Montserrat,America/Montserrat
+Morocco,Africa/Casablanca
+Mozambique,Africa/Maputo
+Myanmar,Asia/Yangon
+Namibia,Africa/Windhoek
+Nauru,Pacific/Nauru
+Nepal,Asia/Kathmandu
+Netherlands,Europe/Amsterdam
+New Caledonia,Pacific/Noumea
+New Zealand,Pacific/Auckland
+Nicaragua,America/Managua
+Niger,Africa/Niamey
+Nigeria,Africa/Lagos
+Niue,Pacific/Niue
+Norfolk Island,Pacific/Norfolk
+North Korea,Asia/Pyongyang
+North Macedonia,Europe/Skopje
+Northern Mariana Islands,Pacific/Saipan
+Norway,Europe/Oslo
+Oman,Asia/Muscat
+Pakistan,Asia/Karachi
+Palestinian Territory,Asia/Hebron
+Palestinian Territory,Asia/Gaza
+Panama,America/Panama
+Papua New Guinea,Pacific/Port_Moresby
+Paraguay,America/Asuncion
+Peru,America/Lima
+Philippines,Asia/Manila
+Pitcairn,Pacific/Pitcairn
+Poland,Europe/Warsaw
+Portugal,Europe/Lisbon
+Portugal,Atlantic/Madeira
+Puerto Rico,America/Puerto_Rico
+Qatar,Asia/Qatar
+Republic of the Congo,Africa/Brazzaville
+Reunion,Indian/Reunion
+Romania,Europe/Bucharest
+Russia,Asia/Krasnoyarsk
+Russia,Europe/Moscow
+Russia,Asia/Irkutsk
+Russia,Asia/Vladivostok
+Russia,Europe/Astrakhan
+Russia,Europe/Saratov
+Russia,Asia/Barnaul
+Russia,Asia/Yekaterinburg
+Russia,Asia/Yakutsk
+Russia,Asia/Chita
+Russia,Europe/Ulyanovsk
+Russia,Europe/Samara
+Russia,Europe/Kaliningrad
+Russia,Europe/Volgograd
+Russia,Asia/Novokuznetsk
+Russia,Europe/Kirov
+Russia,Asia/Magadan
+Russia,Asia/Novosibirsk
+Russia,Asia/Omsk
+Russia,Asia/Kamchatka
+Russia,Asia/Tomsk
+Russia,Asia/Sakhalin
+Rwanda,Africa/Kigali
+Saint Barthelemy,America/St_Barthelemy
+Saint Helena,Atlantic/St_Helena
+Saint Kitts and Nevis,America/St_Kitts
+Saint Lucia,America/St_Lucia
+Saint Martin,America/Marigot
+Saint Pierre and Miquelon,America/Miquelon
+Saint Vincent and the Grenadines,America/St_Vincent
+Samoa,Pacific/Apia
+San Marino,Europe/San_Marino
+Sao Tome and Principe,Africa/Sao_Tome
+Saudi Arabia,Asia/Riyadh
+Senegal,Africa/Dakar
+Serbia,Europe/Belgrade
+Seychelles,Indian/Mahe
+Sierra Leone,Africa/Freetown
+Singapore,Asia/Singapore
+Sint Maarten,America/Lower_Princes
+Slovakia,Europe/Bratislava
+Slovenia,Europe/Ljubljana
+Solomon Islands,Pacific/Guadalcanal
+Somalia,Africa/Mogadishu
+South Africa,Africa/Johannesburg
+South Georgia and the South Sandwich Islands,Atlantic/South_Georgia
+South Korea,Asia/Seoul
+South Sudan,Africa/Juba
+Spain,Europe/Madrid
+Spain,Atlantic/Canary
+Spain,Africa/Ceuta
+Sri Lanka,Asia/Colombo
+Sudan,Africa/Khartoum
+Suriname,America/Paramaribo
+Svalbard and Jan Mayen,Europe/Oslo
+Sweden,Europe/Stockholm
+Switzerland,Europe/Zurich
+Syria,Asia/Damascus
+Taiwan,Asia/Taipei
+Tajikistan,Asia/Dushanbe
+Tanzania,Africa/Dar_es_Salaam
+Thailand,Asia/Bangkok
+Timor Leste,Asia/Dili
+Togo,Africa/Lome
+Tonga,Pacific/Tongatapu
+Trinidad and Tobago,America/Port_of_Spain
+Tunisia,Africa/Tunis
+Turkey,Europe/Istanbul
+Turkmenistan,Asia/Ashgabat
+Turks and Caicos Islands,America/Grand_Turk
+Tuvalu,Pacific/Funafuti
+U.S. Virgin Islands,America/St_Thomas
+Uganda,Africa/Kampala
+Ukraine,Europe/Zaporozhye
+Ukraine,Europe/Kiev
+Ukraine,Europe/Simferopol
+Ukraine,Europe/Uzhgorod
+United Arab Emirates,Asia/Dubai
+United Kingdom,Europe/London
+United States,America/Chicago
+United States,America/Phoenix
+United States,America/New_York
+United States,America/Denver
+United States,America/Los_Angeles
+United States,America/Anchorage
+United States,America/Detroit
+United States,America/Indiana/Indianapolis
+United States,America/Boise
+United States,Pacific/Honolulu
+United States,America/Juneau
+United States,America/Kentucky/Louisville
+United States,America/North_Dakota/New_Salem
+United States,America/Indiana/Vincennes
+Uruguay,America/Montevideo
+Uzbekistan,Asia/Tashkent
+Uzbekistan,Asia/Samarkand
+Vanuatu,Pacific/Efate
+Vatican,Europe/Vatican
+Venezuela,America/Caracas
+Vietnam,Asia/Ho_Chi_Minh
+Wallis and Futuna,Pacific/Wallis
+Western Sahara,Africa/El_Aaiun
+Yemen,Asia/Aden
+Zambia,Africa/Lusaka
+Zimbabwe,Africa/Harare
+Coordinated Universal Time,GMT
