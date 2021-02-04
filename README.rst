@@ -12,17 +12,11 @@ It comes with two home screen widgets which show weather and time or time only.
 Download
 --------
 
-.. image:: https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png
-    :target: https://play.google.com/store/apps/details?id=ch.corten.aha.worldclock
-
 .. image:: https://gitlab.com/fdroid/artwork/raw/master/badge/get-it-on.png
     :target: https://f-droid.org/repository/browse/?fdid=ch.corten.aha.worldclock
     
 .. image:: https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-white.png
     :target: https://www.amazon.com/gp/product/B07HJVH3MW/ref=Biswajit-Das-World-Weather-Widget
-
-.. image:: https://cdn6.aptoide.com/includes/themes/2014/images/aptoide_badge.svg
-    :target: https://world-clock-weather.en.aptoide.com/
 
 OpenWeatherMap API key(Only on Fdroid version)
 ######################
