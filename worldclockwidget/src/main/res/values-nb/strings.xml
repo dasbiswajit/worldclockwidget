@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+
+    <string name="app_name">World Clock &amp; Weather</string>
+    <string name="add_city">Legg til sted</string>
+    <string name="world_clock_settings">World Clock Innstillinger</string>
+    <string name="no_clock_defined">Bruk menyen for å legge til steder.</string>
+    <string name="n_selcted_format">{0} valgt</string>
+    <string name="delete">Slett</string>
+    <string name="add">Legg til</string>
+    <string name="edit">Rediger</string>
+    <string name="search">Søk</string>
+    <string name="city">Sted</string>
+    <string name="latitude">Breddegrad</string>
+    <string name="longitude">Lengdegrad</string>
+    <string name="display_in_widget">Vis i modul</string>
+    <string name="description">Beskrivelse</string>
+    <string name="refresh">Gjenoppfrisk</string>
+
+    <string-array name="speed_units">
+        <item name="kmh">km/t</item>
+        <item name="mph">mph</item>
+        <item name="ms">m/s</item>
+        <item name="beaufort">Beaufort</item>
+    </string-array>
+    <string-array name="temp_units">
+        <item name="celsius">°C</item>
+        <item name="fahrenheit">°F</item>
+    </string-array>
+
+    <string name="preferences">Innstillinger</string>
+    <string name="temperature_unit">Temperaturenhet</string>
+    <string name="wind_speed_unit">Vindstyrkeenhet</string>
+    <string name="humidity">Luftfuktighet</string>
+    <string name="wind_format">Vind: {0} - {1}</string>
+    <string name="wind_format_no_direction">Vind: {1}</string>
+    <string name="weather">Vær</string>
+    <string name="activity_title">World Clock</string>
+    <string name="clock_widget_name">World Clock</string>
+    <string name="weather_widget_name">World Clock &amp; Weather</string>
+    <string name="no_data_available">Ingen data tilgjengelig</string>
+    <string name="change_temperature_unit">Endre temperaturenhet</string>
+    <string name="change_wind_speed_unit">Endre vindstyrkeenhet</string>
+    <string name="dialog_color_picker">Fargevelger</string>
+    <string name="press_color_to_apply">Trykk på farge for å bruke</string>
+    <string name="widget">Modul</string>
+    <string name="use_custom_colors">Bruk tilpassede farger</string>
+    <string name="background">Bakgrunn</string>
+    <string name="foreground">Forgrunn</string>
+    <string name="change_background_color">Endre bakgrunnsfarge og gjennomsiktighet</string>
+    <string name="change_foreground_color">Endre forgrunnsfarge</string>
+
+    <string-array name="weather_purge_times">
+        <item name="2hours">2 timer</item>
+        <item name="4hours">4 timer</item>
+        <item name="6hours">6 timer</item>
+        <item name="12hours">12 timer</item>
+        <item name="24hours">24 timer</item>
+        <item name="never">Aldri</item>
+    </string-array>
+
+    <string name="weather_data_purge_time">Fjern gamle data</string>
+    <string name="weather_data_purge_time_dialog">Fjern værdata eldre enn</string>
+    <string name="weather_data_purge_time_summary">Når gamle værdata blir fjernet</string>
+    <string name="disable_automatic_update">Ingen automatisk oppdatering</string>
+    <string name="disable_automatic_update_of_weather_conditions">Deaktiver automatisk oppdatering av værforhold</string>
+    <string name="weather_widget_name_2x1">World Clock &amp; Weather 2x1</string>
+    <string name="weather_widget_name_2x2">World Clock &amp; Weather 2x2</string>
+    <string name="weather_widget_name_2x3">World Clock &amp; Weather 2x3</string>
+    <string name="weather_widget_name_2x4">World Clock &amp; Weather 2x4</string>
+    <string name="weather_widget_name_4x1">World Clock &amp; Weather 4x1</string>
+    <string name="weather_widget_name_4x2">World Clock &amp; Weather 4x2</string>
+    <string name="weather_widget_name_4x3">World Clock &amp; Weather 4x3</string>
+    <string name="weather_widget_name_4x4">World Clock &amp; Weather 4x4</string>
+    <string name="done">Lagre</string>
+    <string name="discard">Forkast</string>
+    <string name="general">Generelle</string>
+    <string name="automatically_sort_cities">Sorter steder automatisk</string>
+    <string name="disable_to_sort_cities_manually">Deaktiver for å sortere steder manuelt</string>
+    <string name="move_up">Flytt opp</string>
+    <string name="move_down">Flytt ned</string>
+    <string name="time_zone">Tidssone</string>
+    <string name="feedback_title">Send tilbakemelding</string>
+    <string name="feedback_summary">Fortell oss hva du synes</string>
+    <string name="about">Om</string>
+    <string name="version_caption">Versjon</string>
+    <string name="license_caption">Lisens</string>
+    <string name="project_page_caption">Prosjektside</string>
+    <string name="developer_caption">Utviklet av</string>
+    <string name="acknowledgements_caption">Anerkjennelser</string>
+    <string name="license_text">GPL Version 3 eller nyere</string>
+    <string name="project_page_text"><a href="github.com/dasbiswajit/worldclockwidget">Project Page</a></string>
+    <string name="developer_text">Armin Häberling\nBiswajit Das\nSpesiell takk til <a href="https://vyick.wordpress.com/">vyick</a> for beta-testing og forslag!</string>
+    <string name="acknowledgement_weather">Værdata er levert av <a href="https://openweathermap.org/">Open Weather Map</a>.</string>
+    <string name="acknowledgement_icons">Værsymboler er basert på <a href="http://www.alessioatzeni.com/meteocons/">Meteocons</a> fra Alessio Atzeni.</string>
+    <string name="acknowledgement_geonames">Tidssone og geografiske data er levert av <a href="http://www.geonames.org/">GeoNames</a>.</string>
+    <string name="about_title">Om World Clock &amp; Weather</string>
+    <string name="close">Lukk</string>
+    <string name="weather_service_language">nb-NO</string>
+
+    <string name="api_changes_text_string">Dear user. Recently there is a change of using your favorite weather application due to restriction of usage from Open Weather Map. Please follow the link to signup and enter your key. Thank you for your understanding and co-operation.</string>
+    <string name="openweather_signup_link"><a href="https://home.openweathermap.org/users/sign_up">open weather api key link</a></string>
+    <string name="new_api_key">new_api_key</string>
+    <string name="new_api_key_title">Change API key</string>
+    <string name="new_api_key_summary">Please enter your Open Weather Map API key here</string>
+    <string name="new_api_key_default_text">Please enter new open weather map API key</string>
+
+    <string name="WeatherApiPreference_key">WeatherApiPreference_key</string>
+    <string name="WeatherApiPreference_summary">Kindly set up the new weather api to run this app properly. Please click here for more information..</string>
+    <string name="WeatherApiPreference_title">!!! Important !!!</string>
+    <string name="WeatherApiPreference_dialog_title">Important!!</string>
+    <string name="get_api_message">Please get New API Key from the link below</string>
+    <string name="current_api_key">Current API Key</string>
+
+</resources>
